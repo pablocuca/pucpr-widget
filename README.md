@@ -2,6 +2,8 @@
 
 Este guia explica em detalhes a implementação de um Timer customizado em Flutter, com animações e mudança de cores baseada no progresso.
 
+Projeto feito pela ide IDX Google!
+
 ## 🎯 Visão Geral
 
 O projeto implementa um timer circular animado com as seguintes características:
